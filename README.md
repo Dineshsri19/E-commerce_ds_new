@@ -27,7 +27,7 @@ This project presents an in-depth analysis of an e-commerce dataset using Python
   - Country
   - Purchase_amount
   
-  # screenshot - ![image](https://github.com/user-attachments/assets/61864cb9-ca4e-4c41-bba3-eba8cf384a17)
+  ![image](https://github.com/user-attachments/assets/61864cb9-ca4e-4c41-bba3-eba8cf384a17)
 
  
 ## Tools & Technologies
