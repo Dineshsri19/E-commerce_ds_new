@@ -28,6 +28,9 @@ This project presents an in-depth analysis of an e-commerce dataset using Python
   - Purchase_amount
   
   ![image](https://github.com/user-attachments/assets/61864cb9-ca4e-4c41-bba3-eba8cf384a17)
+  
+  ![image](https://github.com/user-attachments/assets/eb40d453-014c-4f08-a051-dc7e91980887)
+
 
  
 ## Tools & Technologies
